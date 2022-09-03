@@ -1,3 +1,25 @@
+Bienvenidos a mi [web personal](https://javierdz.tk)!
+=====================================================
+
+Empezé a hacer esta web como descripcion del aula virtual de mi insituto pero me gustó y se ha quedado como mi portfolio.
+
+---
+
+Logbook
+-------
+
++ Día 1/9/22 Empiezo a hacer el primer titulo, las RRSS y los links, tambien pongo el footer
++ Día 2/9/22 Hago el readme.md
++ Dia 3/9/22 La web esta [online](https://javierdz.tk)
+
+---
+
+Screenshots
+-----------
+![01](https://i.imgur.com/V2jtfG7.png)
+
+---
+
 Estado de la [web](https://javierdz.tk)
 =======================================
 
